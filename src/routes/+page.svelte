@@ -3,6 +3,8 @@
   import messageSvg from "$lib/messages-mac.png";
 </script>
 
+ <a href="/levels" class="rounded-lg px-3 py-2 text-slate-700 font-medium text-7xl hover:bg-slate-100 hover:text-slate-900">levels</a>
+
 <div class="p-10 
   flex flex-col flex-wrap items-center gap-5">
   <div class="p-6 max-w-sm mx-auto bg-white rounded-xl shadow-lg 
